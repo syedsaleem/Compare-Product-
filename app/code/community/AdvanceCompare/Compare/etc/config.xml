@@ -1,0 +1,13 @@
+<?xml version "1.0"?>
+<config>
+  <modules>
+    <AdvanceCompare_Compare>
+      <version>1.0</version>
+    </AdvanceCompare_Compare>
+  </modules>
+   <global>
+      <models>
+      
+      </models>
+    </global>
+</config>
